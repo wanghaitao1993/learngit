@@ -1,2 +1,2 @@
-Git is a reference control system.
-Git is free software.
+Git is a 5agame learngit control system.
+Git is busy software.
